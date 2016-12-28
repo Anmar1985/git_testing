@@ -9,6 +9,6 @@ int main(void)
 	i = 0xBADFACE;
 	printf("\ni = %x\n",i);
 	printf("done ");
-
+	return 0;
 }
 
