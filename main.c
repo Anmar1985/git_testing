@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+#define BAD   0xBAD
 int main(void)
 {
 
