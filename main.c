@@ -3,6 +3,8 @@
 #define GOOD 0xFACE
 #define BAD   0xBAD
 //commit to master branch before pull
+
+// some stuff
 int main(void)
 {
 
